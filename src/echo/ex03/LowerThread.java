@@ -1,4 +1,4 @@
-package echo.ex02;
+package echo.ex03;
 
 public class LowerThread extends Thread {
 	
